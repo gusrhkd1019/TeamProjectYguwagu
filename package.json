@@ -17,7 +17,7 @@
     "core-js": "^2.5.7",
     "firebase": "^7.1.0",
     "moment": "^2.24.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-carousel": "^0.18.0",
     "vue-moment": "^4.0.0",
     "vue-momentjs": "^0.1.2",
